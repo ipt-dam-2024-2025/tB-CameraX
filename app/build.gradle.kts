@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "pt.ipt.dam.camerax"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "pt.ipt.dam.camerax"
