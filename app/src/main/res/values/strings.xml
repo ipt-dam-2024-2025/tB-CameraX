@@ -2,4 +2,5 @@
     <string name="app_name">Camera X</string>
     <string name="button_text">Take photo</string>
     <string name="permission_denied">Permission request denied</string>
+    <string name="photo_ok">Photo capture succeeded</string>
 </resources>
